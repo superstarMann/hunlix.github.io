@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superstarMann/hunlix.github.io/static/css/main.723e7515.css",
+    "main.js": "/superstarMann/hunlix.github.io/static/js/main.790f566a.js",
+    "static/js/787.776cbf08.chunk.js": "/superstarMann/hunlix.github.io/static/js/787.776cbf08.chunk.js",
+    "index.html": "/superstarMann/hunlix.github.io/index.html",
+    "main.723e7515.css.map": "/superstarMann/hunlix.github.io/static/css/main.723e7515.css.map",
+    "main.790f566a.js.map": "/superstarMann/hunlix.github.io/static/js/main.790f566a.js.map",
+    "787.776cbf08.chunk.js.map": "/superstarMann/hunlix.github.io/static/js/787.776cbf08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.723e7515.css",
+    "static/js/main.790f566a.js"
+  ]
+}
