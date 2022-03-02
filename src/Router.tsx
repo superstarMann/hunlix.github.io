@@ -7,7 +7,7 @@ import {Header} from './Components/Header'
 
 export const Router = () => {
     return(
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter>
         <Header/>
           <Routes>
               <Route path='/*' element={<Home/>}/>

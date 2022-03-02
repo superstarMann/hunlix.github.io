@@ -20,7 +20,6 @@ export const Header = () => {
     const toggleBox = () => {setSearchBox(current => !current)}
     const navAnimation = useAnimation();
     const {scrollY} = useViewportScroll();
-    console.log(scrollY.get())
     useEffect(() => {
         scrollY.onChange(() => {
           if (scrollY.get() > 80) {
