@@ -50,6 +50,7 @@ export const Header = () => {
                 text-left bg-transparent origin-top-right pl-2 pr-4 mr-3 border-2 opacity-60'
                 transition={{ type:"just"}}
                 animate={{ scaleX: searchBox ? 1 : 0 }}
+                initial={false}
                 placeholder='Search for movie or tv...'/>
                 <motion.span 
                   animate={{ x: searchBox ? 0 : -180 }}
